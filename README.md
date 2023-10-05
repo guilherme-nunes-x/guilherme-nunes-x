@@ -11,4 +11,12 @@
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-nunes-x&layout=compact&hide_border=true&title_color=4682B44&text_color=c9d1d9&bg_color=0d1117" />
 </div>
   
+  <div align="center"> 
+<a href="[https://instagram.com/carol_developer](https://www.instagram.com/guil_rx29/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="[https://www.youtube.com/channel/UCvFCatDtfdvwKKXkndSAPiw](https://www.youtube.com/channel/UC0x1zf-zVmzo5zkKFpeO2Wg)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href = "e-mail:guermenunes2@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+ </div>
+  
   ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=footer"/>
