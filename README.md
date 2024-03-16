@@ -16,8 +16,10 @@
 <a href="https://www.youtube.com/channel/UC0x1zf-zVmzo5zkKFpeO2Wg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href = "mailto:guermenunes2@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
  </div>
+<div align ="center">
 
 ## Minhas linguagens e equipamentos de desenvolvimento
+</div>
   <div align="center"> 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
