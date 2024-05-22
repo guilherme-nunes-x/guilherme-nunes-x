@@ -12,7 +12,7 @@
 
 <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-nunes-x&layout=donut&hide_border=true&title_color=dfc130&text_color=dfc130&bg_color=0d1117&hide_progress=true)" />
 
-<img height="200px" src="https://streak-stats.demolab.com/?user=guilherme-nunes-x&background=0000&hide_border=true&fire=dfc130&dates=dfc130&fire=dfc130&excludeDaysLabel=dfc130&ring=dfc130&stroke=dfc130&currStreakNum=dfc130&currStreakLabel=dfc130&sideLabels=dfc130&excludeDaysLabel=dfc130&sideNums=dfc130" />
+<img height="195px" src="https://streak-stats.demolab.com/?user=guilherme-nunes-x&background=0000&hide_border=true&fire=dfc130&dates=dfc130&fire=dfc130&excludeDaysLabel=dfc130&ring=dfc130&stroke=dfc130&currStreakNum=dfc130&currStreakLabel=dfc130&sideLabels=dfc130&excludeDaysLabel=dfc130&sideNums=dfc130" />
 </div>
 
 ---
