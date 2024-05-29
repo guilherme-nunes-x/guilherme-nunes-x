@@ -16,7 +16,22 @@
 </div>
 
 ---
-   
+
+## 🐛My madness Golang 
+ ```Golang
+package main
+
+import 'fmt'
+
+func main(){
+fmt.Println("Hello world, My name is Guilherme Nunes")
+fmt.Println("To sum up the life of a programmer: Study and develop (AI's always save)🧠")
+}
+
+ ```
+
+<br>  
+
 ## 🧠 Knowledge
 
   <div display="inline-block"> 
@@ -51,7 +66,7 @@
 </div>
 
 ---
-  
+
   ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dfc130&height=120&section=footer"/>
