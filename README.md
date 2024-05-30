@@ -34,9 +34,6 @@ fmt.Println("Study and develop", Ias)
 }
 
  ```
-
-<br>  
-
 ## 🧠 Knowledge
 
   <div display="inline-block"> 
