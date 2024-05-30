@@ -25,8 +25,12 @@ package main
 import "fmt"
 
 func main(){
+
 fmt.Println("Hello world, My name is Guilherme Nunes")
-fmt.Println("To sum up the life of a programmer: Study and develop (AI's always save)🧠")
+
+fmt.Println("To sum up the life of a programmer:")
+var Ias = "AI's always save🧠"
+fmt.Println("Study and develop", Ias)
 }
 
  ```
