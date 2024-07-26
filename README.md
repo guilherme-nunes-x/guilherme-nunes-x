@@ -64,6 +64,14 @@ fmt.Println("Study and develop", Ias)
 </div>
 
 ---
+## 📋 Positions
+<div display="inline-block"> 
+   
+Company Boss 📈[@theGrandAristocrat](https://github.com/TheGrandAristocrat) e and team admin 📈[@legionAristocrat](https://github.com/orgs/TheGrandAristocrat/teams/legionaristocrat)
+
+</div>
+
+---
 
   ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
