@@ -1,18 +1,18 @@
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=dfc130&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Guilherme+Nunes;I'm+17+years+old;I'm+from+Brazil;I+am+a+student+at+if;Be+Welcome!)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0B5268&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Guilherme+Nunes;I'm+17+years+old;I'm+from+Brazil;I+am+a+student+at+if;Be+Welcome!)](https://git.io/typing-svg)
    
 ---
    
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guilherme-nunes-x&bg_color=0000&color=dfc130&line=e9c130&point=f2d026&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guilherme-nunes-x&bg_color=0000&color=0B5268&line=0C607A&point=0B5268&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 <div display="inline-block">  
    
 <div align="center"> 
-<img height="195px" src="https://github-readme-stats.vercel.app/api?username=guilherme-nunes-x&show_icons=true&count_private=true&hide_border=true&title_color=dfc130&icon_color=dfc130&text_color=dfc130&bg_color=0d1117" alt="Guilherme Nunes github stats" /> 
+<img height="195px" src="https://github-readme-stats.vercel.app/api?username=guilherme-nunes-x&show_icons=true&count_private=true&hide_border=true&title_color=0B5268&icon_color=0B5268&text_color=0B5268&bg_color=0d1117" alt="Guilherme Nunes github stats" /> 
 
-<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-nunes-x&layout=donut&hide_border=true&title_color=dfc130&text_color=dfc130&bg_color=0d1117&hide_progress=true)" />
+<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-nunes-x&layout=donut&hide_border=true&title_color=0B5268&text_color=0B5268&bg_color=0d1117&hide_progress=true)" />
 
-<img height="200px" src="https://streak-stats.demolab.com/?user=guilherme-nunes-x&background=0000&hide_border=true&fire=dfc130&dates=dfc130&fire=dfc130&excludeDaysLabel=dfc130&ring=dfc130&stroke=dfc130&currStreakNum=dfc130&currStreakLabel=dfc130&sideLabels=dfc130&excludeDaysLabel=dfc130&sideNums=dfc130" />
+<img height="200px" src="https://streak-stats.demolab.com/?user=guilherme-nunes-x&background=0000&hide_border=true&fire=0B5268&dates=0B5268&fire=0B5268&excludeDaysLabel=0B5268&ring=0B5268&stroke=0B5268&currStreakNum=0B5268&currStreakLabel=0B5268&sideLabels=0B5268&excludeDaysLabel=0B5268&sideNums=0B5268" />
 
 </div>
 
@@ -75,4 +75,4 @@ Company Boss 📈[@theGrandAristocrat](https://github.com/TheGrandAristocrat) e 
 
   ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dfc130&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0B5268&height=120&section=footer"/>
