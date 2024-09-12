@@ -1,18 +1,18 @@
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0B5268&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Guilherme+Nunes;I'm+17+years+old;I'm+from+Brazil;I+am+a+student+at+if;Be+Welcome!)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=11568E&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Guilherme+Nunes;I'm+17+years+old;I'm+from+Brazil;I+am+a+student+at+if;Be+Welcome!)](https://git.io/typing-svg)
    
 ---
    
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guilherme-nunes-x&bg_color=0000&color=0B5268&line=0C607A&point=0B5268&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guilherme-nunes-x&bg_color=0000&color=11568E&line=115FA0&point=1369AF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 <div display="inline-block">  
    
 <div align="center"> 
-<img height="195px" src="https://github-readme-stats.vercel.app/api?username=guilherme-nunes-x&show_icons=true&count_private=true&hide_border=true&title_color=0B5268&icon_color=0B5268&text_color=0B5268&bg_color=0d1117" alt="Guilherme Nunes github stats" /> 
+<img height="195px" src="https://github-readme-stats.vercel.app/api?username=guilherme-nunes-x&show_icons=true&count_private=true&hide_border=true&title_color=11568E&icon_color=11568E&text_color=11568E&bg_color=0d1117" alt="Guilherme Nunes github stats" /> 
 
-<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-nunes-x&layout=donut&hide_border=true&title_color=0B5268&text_color=0B5268&bg_color=0d1117&hide_progress=true)" />
+<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-nunes-x&layout=donut&hide_border=true&title_color=11568E&text_color=11568E&bg_color=0d1117&hide_progress=true)" />
 
-<img height="200px" src="https://streak-stats.demolab.com/?user=guilherme-nunes-x&background=0000&hide_border=true&fire=0B5268&dates=0B5268&fire=0B5268&excludeDaysLabel=0B5268&ring=0B5268&stroke=0B5268&currStreakNum=0B5268&currStreakLabel=0B5268&sideLabels=0B5268&excludeDaysLabel=0B5268&sideNums=0B5268" />
+<img height="200px" src="https://streak-stats.demolab.com/?user=guilherme-nunes-x&background=0000&hide_border=true&fire=11568E&dates=11568E&fire=11568E&excludeDaysLabel=11568E&ring=11568E&stroke=11568E&currStreakNum=11568E&currStreakLabel=11568E&sideLabels=11568E&excludeDaysLabel=11568E&sideNums=11568E" />
 
 </div>
 
@@ -61,14 +61,6 @@ fmt.Println("Study and develop", Ias)
 ![Shazam](https://img.shields.io/badge/shazam-1476FE?style=for-the-badge&logo=shazam&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-</div>
-
----
-## 📋 Positions
-<div display="inline-block"> 
-   
-Company Boss 📈[@theGrandAristocrat](https://github.com/TheGrandAristocrat) e and team admin 📈[@legionAristocrat](https://github.com/orgs/TheGrandAristocrat/teams/legionaristocrat)
-
 </div>
 
 ---
