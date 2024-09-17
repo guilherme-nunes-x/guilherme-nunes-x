@@ -1,18 +1,18 @@
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=11568E&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Guilherme+Nunes;I'm+18+years+old;I'm+from+Brazil;I+am+a+student+at+if;Be+Welcome!)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800020&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Guilherme+Nunes;I'm+18+years+old;I'm+from+Brazil;I+am+a+student+at+if;Be+Welcome!)](https://git.io/typing-svg)
    
 ---
    
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guilherme-nunes-x&bg_color=0000&color=11568E&line=115FA0&point=1369AF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guilherme-nunes-x&bg_color=000000&color=910303&line=bf0808&point=8a0a0a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 <div display="inline-block">  
    
 <div align="center"> 
-<img height="195px" src="https://github-readme-stats.vercel.app/api?username=guilherme-nunes-x&show_icons=true&count_private=true&hide_border=true&title_color=11568E&icon_color=11568E&text_color=11568E&bg_color=0d1117" alt="Guilherme Nunes github stats" /> 
+<img height="195px" src="https://github-readme-stats.vercel.app/api?username=guilherme-nunes-x&show_icons=true&count_private=true&hide_border=true&title_color=800020&icon_color=800020&text_color=800020&bg_color=000000" alt="Guilherme Nunes github stats" /> 
 
-<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-nunes-x&layout=donut&hide_border=true&title_color=11568E&text_color=11568E&bg_color=0d1117&hide_progress=true)" />
+<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-nunes-x&layout=donut&hide_border=true&title_color=800020&text_color=800020&bg_color=000000&hide_progress=true)" />
 
-<img height="200px" src="https://streak-stats.demolab.com/?user=guilherme-nunes-x&background=0000&hide_border=true&fire=11568E&dates=11568E&fire=11568E&excludeDaysLabel=11568E&ring=11568E&stroke=11568E&currStreakNum=11568E&currStreakLabel=11568E&sideLabels=11568E&excludeDaysLabel=11568E&sideNums=11568E" />
+<img height="200px" src="https://streak-stats.demolab.com/?user=guilherme-nunes-x&background=000000&hide_border=true&fire=800020&dates=800020&fire=800020&excludeDaysLabel=800020&ring=800020&stroke=800020&currStreakNum=800020&currStreakLabel=800020&sideLabels=800020&excludeDaysLabel=800020&sideNums=800020" />
 
 </div>
 
