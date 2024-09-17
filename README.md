@@ -16,24 +16,6 @@
 
 </div>
 
----
-
-## 🐛My madness Golang 
- ```Golang
-package main
-
-import "fmt"
-
-func main(){
-
-fmt.Println("Hello world, My name is Guilherme Nunes")
-
-fmt.Println("To sum up the life of a programmer:")
-var Ias = "AI's always save🧠"
-fmt.Println("Study and develop", Ias)
-}
-
- ```
 ## 🧠 Knowledge
 
   <div display="inline-block"> 
@@ -49,7 +31,6 @@ fmt.Println("Study and develop", Ias)
 <a href="https://prettier.io/"><img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E"></a>
 ![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)</div>
 
---- 
 ## 📖 Studying
 <div display="inline-block"> 
 
@@ -63,7 +44,6 @@ fmt.Println("Study and develop", Ias)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 </div>
 
----
 
   ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
