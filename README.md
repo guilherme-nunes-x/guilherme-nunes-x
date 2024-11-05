@@ -2,15 +2,15 @@
 
 ###
 
-<p align="left">A simple programmer in the digital market. A student of web and Android development. A fan of politics, economics, entrepreneurship, self-development and technology.Profiling an individual and using an alias.</p>
+<p align="left">A simple programmer in the digital market. A student of web and Android development. A fan of politics, economics, entrepreneurship, self-development and technology. Profile of individual Guilherme Nunes using a pseudonym.</p>
 
 ###
 
 <div align="center">
     <h2 align="left"> My statistics 📊</h2>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=guilherme-nunes-x&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false" height="350" alt="activity-graph graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=guilherme-nunes-x&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilherme-nunes-x&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=github_dark&hide_border=true&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=guilherme-nunes-x&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="190" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilherme-nunes-x&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=github_dark&hide_border=true&order=2" height="190" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=guilherme-nunes-x&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
